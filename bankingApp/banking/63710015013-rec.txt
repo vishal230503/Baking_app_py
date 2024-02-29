@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2023-06-07] [03:44:42]       20000              20000
